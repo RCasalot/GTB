@@ -79,12 +79,11 @@ Ce projet permettra dans un second temps aux élèves en charge de ce dernier de
 | Rédaction des différents documents |  :small_blue_diamond:Rédaction du cahier des charges, du markdown, des différents diagrammes nécessaires pour un bon suivi du projet <br> :small_blue_diamond: Rédaction d'un journal de bord séance par séance. | En cours | Tout au long du projet |
 | Conception de l’interface utilisateur | :small_blue_diamond: Créer une maquette pour les différentes interfaces. <br>:small_blue_diamond:Définir une structure pour les différentes pages. | En cours | Début:11/02/2025 <br> Fin:  |
 | Développement des interfaces | :small_blue_diamond: Développer une interface Administrateur avec des éléments visibles uniquement par ce dernier <br> :small_blue_diamond:Développer une interface Responsable <br> :small_blue_diamond:Développer une interface Utilisateur| En cours | Début:12/02/2025 <br> Fin:  |
-| Style et Responsivité | :small_blue_diamond: Mettre les pages en forme grâce au CSS, cela permettra également d'adapter également les pages pour les afficher sur n'importe quel support |  | Début:   <br> Fin: |
-| Intégration avec le backend | :small_blue_diamond: Utiliser JavaScript afin de récupérer les valeurs via une API <br> :small_blue_diamond:Gérer via une interface l'affichage dynamique des données |  | Début:  <br> Fin:|
-|  |  |  |  |
-
-
-:white_check_mark:
+| Style et Responsivité | :small_blue_diamond: Mettre les pages en forme grâce au CSS, cela permettra également d'adapter également les pages pour les afficher sur n'importe quel support | Pas commencée | Début:   <br> Fin: |
+| Intégration avec le backend | :small_blue_diamond: Utiliser JavaScript afin de récupérer les valeurs via une API <br> :small_blue_diamond:Gérer via une interface l'affichage dynamique des données | Pas commencée | Début:  <br> Fin:|
+| 1ère phase de tests et validation | :small_blue_diamond: Tester l'interface sur les différents navigateurs possibles <br> :small_blue_diamond: Corriger les bugs et améliorer l'expérience utilisateur | Pas commencée | Début: <br> Fin: |
+| 2ème phase de tests et validation | :small_blue_diamond: Vérifier que tous les composants puissent communiquer entre eux comme prévu <br> :small_blue_diamond: Tester chaque service afin de s'assurer que tout fonctionne correctement | Pas commencée | Début: <br> Fin: |
+--- 
 <details>
 
 [:arrow_up:](#top)
