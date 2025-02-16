@@ -74,7 +74,7 @@ Ce projet permettra dans un second temps aux élèves en charge de ce dernier de
 <a id="SUI"></a>
 ## <cite><font color="#00506b">Suivi des tâches effectuées</font></cite>
 
-| Tâche réalisée   |      Description de la tâche    |  Étât de la tâche | Dâte de réalisation de la tâche|  
+| Tâche réalisée | Description de la tâche | Étât de la tâche | Dâte de réalisation de la tâche |  
 |:----------|:-------------|:------:| :------: |
 | Rédaction des différents documents |  :small_blue_diamond:Rédaction du cahier des charges, du markdown, des différents diagrammes nécessaires pour un bon suivi du projet <br> :small_blue_diamond: Rédaction d'un journal de bord séance par séance. | En cours | Tout au long du projet |
 | Conception de l’interface utilisateur | :small_blue_diamond: Créer une maquette pour les différentes interfaces. <br>:small_blue_diamond:Définir une structure pour les différentes pages. | En cours | Début:11/02/2025 <br> Fin:  |
