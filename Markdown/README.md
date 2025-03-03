@@ -4,13 +4,13 @@
 ---
 ### Table des matières :
 
-* <a href="#CONT"> Contexte du projet </a>
-* <a href="#OBJ">Objectifs du Projet </a>
-* <a href="#LOGI"> Logiciels utilisés </a>
+* <a href="#CONT"> Contexte du projet</a>
+* <a href="#OBJ">Objectifs du Projet</a>
+* <a href="#LOGI"> Logiciels utilisés</a>
 * <a href="#TAC">Les différentes tâches personnelles</a>
 * <a href="#PRB"> Problèmes rencontrés</a>
 * <a href="#ARC"> Architecture du projet</a>
-* <a href="#SUI"> Suivi des tâches effectuées </a>
+* <a href="#SUI"> Suivi des tâches effectuées</a>
 ---
 
 <a id="CONT"></a>
@@ -34,7 +34,7 @@ Ce projet permettra dans un second temps aux élèves en charge de ce dernier de
 <a id="LOGI"></a>
 ## <cite><font color="00506b"> Logiciels utilisés</font></cite>
 
-[![Développement Web](https://img.shields.io/badge/HTML-CSS-yellow)](https://www.w3.org/) [![PHP SQL](https://img.shields.io/badge/PHP-MySQL-8A2BE2)](https://www.php.net/) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-2a52be)](https://www.carnus.fr/) <br><img src="vaultwarden.png" width="150" height="30"> ![Markdown](https://img.shields.io/badge/M%20⬇-191970)
+[![Développement Web](https://img.shields.io/badge/HTML-CSS-yellow)](https://www.w3.org/) [![PHP SQL](https://img.shields.io/badge/PHP-MySQL-8A2BE2)](https://www.php.net/) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-2a52be)](https://www.carnus.fr/) ![Markdown](https://img.shields.io/badge/M%20⬇-191970) <br><img src="vaultwarden.png" width="150" height="30"> 
 
 ---
 <a id="TAC"></a>
