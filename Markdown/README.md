@@ -42,10 +42,17 @@ Ce projet permettra dans un second temps aux élèves en charge de ce dernier de
 
 📦Projet GTB
 ┗ 📂Dashboard
+┃ ┣ 📜compte.php
+┃ ┣ 📜config.php
+┃ ┣ 📜dbcontroller.php
 ┃ ┣ 📜index.php
+┃ ┣ 📜index2.php
 ┃ ┣ 📜login.php
 ┃ ┣ 📜logout.php
+┃ ┣ 📜register.php
+┃ ┣ 📜registration.sql
 ┃ ┣ 📜style.css
+┃ ┣ 📜style2.css
 
 --- 
 <details>
