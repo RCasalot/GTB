@@ -38,7 +38,7 @@ Ce projet permettra dans un second temps aux élèves en charge de ce dernier de
 ## <cite><font color="00506b"> Architecture du projet</font></cite>
 
 📦Projet GTB
-┗ 📂Dashboard
+┗ 📂Code
 ┃ ┣ 📜compte.php
 ┃ ┣ 📜config.php
 ┃ ┣ 📜dbcontroller.php
