@@ -7,10 +7,7 @@
 * <a href="#CONT"> Contexte du projet</a>
 * <a href="#OBJ">Objectifs du Projet</a>
 * <a href="#LOGI"> Logiciels utilisés</a>
-* <a href="#TAC">Les différentes tâches personnelles</a>
-* <a href="#PRB"> Problèmes rencontrés</a>
 * <a href="#ARC"> Architecture du projet</a>
-* <a href="#SUI"> Suivi des tâches effectuées</a>
 ---
 
 <a id="CONT"></a>
