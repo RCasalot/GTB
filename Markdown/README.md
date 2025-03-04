@@ -50,6 +50,7 @@ Ce projet permettra dans un second temps aux élèves en charge de ce dernier de
 ┃ ┣ 📜registration.sql
 ┃ ┣ 📜style.css
 ┃ ┣ 📜style2.css
+┃ ┣ 📜verif.php
 
 --- 
 <details>
