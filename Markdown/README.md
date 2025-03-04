@@ -6,6 +6,7 @@
 
 * <a href="#CONT"> Contexte du projet</a>
 * <a href="#OBJ">Objectifs du Projet</a>
+* <a href="#OBJP">Objectifs Personnels</a>
 * <a href="#LOGI"> Logiciels utilisés</a>
 * <a href="#ARC"> Architecture du projet</a>
 ---
@@ -26,6 +27,12 @@ C’est pour cela que le SMICA désire proposer un nouveau service de Gestion Te
 Le principal objectif de ce projet est de permettre au SMICA de proposer à ses clients une solution de gestion d’informations fiable et peu coûteuse
 
 Ce projet permettra dans un second temps aux élèves en charge de ce dernier de se “professionnaliser” en s’impliquant dans les tâches attribuées. Il permettra une évaluation de leurs compétences dans le milieu professionnel en vue de l'examen du BTS. 
+
+---
+<a id="OBJP"></a>
+## <cite><font color="#00506b"> Objectifs personnels</font></cite>
+
+Mon but durant ce projet est de développer la partie frontend du site internet. Je dois développer un site qui s'adaptera en fonction de l'utilisateur qui se connecte, ce privilège se mettra en place grâce à un grade dans la base de données et qui sera analysé lors de la conenxion afin de modifier l'affihage du site. En parallèle je mettrai en place une double authentification lors de la connexion afin de permettre d'ajouter une couche de sécurité. Je devrai ensuite récupérer les valeurs à afficher sur la base de données commune en générant, en JavaScript, des API qui permettront un affichage de ces valeurs. Comme dit plus haut ces API devront s'adapter, s'empiler et s'effacer en fonction de l'utilisateur connecté.
 
 ---
 <a id="LOGI"></a>
